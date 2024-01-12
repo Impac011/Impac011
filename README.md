@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pc (Pankaj Chaudhuri)
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning HTML,CSS,JS
 - 📫 Reach me at pccodes011@gmail.com
